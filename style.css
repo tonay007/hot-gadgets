@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item, h1, h2, h3, h4, h5, h6{
+    font-weight: 500;
+}
+.btn-dark{
+    background-color: black;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 5px;
+}
+.container-carousel{
+    background-image: url(img/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.header-carousel{
+    background-image: url(img/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.orange{
+    color: orangered;
+}
+.cards{
+    padding: 50px 100px;
+}
+.card{
+    border: none;
+    margin: 0px 30px;
+    text-align: center;
+}
+.card-footer{
+    border: 0;
+}
+.grid{
+    height: 300px;
+}
